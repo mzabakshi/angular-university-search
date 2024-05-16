@@ -1,0 +1,22 @@
+th, td {
+    border: 1px solid black; /* Add border for table cells */
+    padding: 8px; /* Add padding for table cells */
+}
+
+th {
+    background-color: #f2f2f2; /* Add background color for table header cells */
+    text-align: left; /* Align text to the left in table header cells */
+}
+
+/* Set width for each column */
+.name-column {
+    width: 200px;
+}
+
+.country-column {
+    width: 200px;
+}
+
+.website-column {
+    width: 300px;
+}
